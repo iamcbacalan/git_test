@@ -1,3 +1,3 @@
 # git_test
 My first GITHub repo!
-Hello Odin!
+My name is Stan, I am learning development at TOP (the Odin Project)
